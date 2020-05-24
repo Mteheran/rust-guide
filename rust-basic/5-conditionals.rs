@@ -3,7 +3,7 @@ fn main() {
     use std::io::*;
 
     print!("Enter your age");
-    let mut myage = String::new(5);
+    let mut myage = String::new();
     stdin().read_line(&mut myage);
     //if myage > 18 {
     //  println!("You are adult");
