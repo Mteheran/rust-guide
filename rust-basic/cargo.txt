@@ -1,0 +1,6 @@
+cargo --version  //check the version
+cargo new nameoftheproject //creates a new project
+cargo build   //build the project
+cargo build --release
+cargo run    // run the project
+cargo check  //check the sintaxis of the file
